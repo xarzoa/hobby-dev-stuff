@@ -1,9 +1,6 @@
 # APIs
 
-**Bold** - Free \
-Normal - Freemium (Got both paid and free plans) \
-```Mono``` - Free trail \
-***Italic Bold*** - Self-hostable
+Here's some free APIs for tryout.
 
 
 ## Weather
