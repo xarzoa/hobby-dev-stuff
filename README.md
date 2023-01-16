@@ -9,7 +9,7 @@ i'm gonna post some hobby dev stuff here.
 ## Guide
 
 **Bold** - Free \
-Normal - Freemium (Got both paid and free plans) \
+Normal - Freemium \
 ```Mono``` - Free trail \
 ***Italic Bold*** - Self-hostable
 
