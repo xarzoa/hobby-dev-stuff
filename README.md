@@ -7,28 +7,28 @@ i'm gonna post some hobby dev stuff here.
 
 ## Categories
 
- **[API](stuff/api.md)**
+ **[API](stuff/API)**
 
- **[Bots]**
+ **[Bots](stuff/Bots.md)**
 
- **[CI/CD]**
+ **[CI/CD](stuff/CICD.md)**
 
- **[Code editors]**
+ **[Code editors](stuff/Code.md)**
 
- **[Databases]**
+ **[Databases](stuff/DB.md)**
 
- **[Hosting]**
+ **[Hosting](stuff/Hosting.md)**
 
- **[Image]**
+ **[Image](stuff/Image.md)**
 
- **[Music]**
+ **[Music](stuff/Music.md)**
 
- **[Domain]**
+ **[Domain](stuff/Domain.md)**
 
- **[SASS]**
+ **[SASS](stuff/SASS.md)**
 
- **[Security]**
+ **[Security](stuff/Security.md)**
 
- **[Self-hosted]**
+ **[Self-hosted](stuff/SelfHosted.md)**
 
- **[Writing]**
+ **[Writing](stuff/Writing.md)**
