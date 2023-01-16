@@ -5,24 +5,30 @@ i'm gonna post some hobby dev stuff here.
 *add something "free" u use and wanna share and become **collaborator**.*
 * if you're new for github, just make a pull request to get achievements [here's guide](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
-## API
+## Categories
 
-## Bots
+ **[API]**
 
-## CI/CD
+ **[Bots]**
 
-## Code editors
+ **[CI/CD]**
 
-## Databases
+ **[Code editors]**
 
-## Hosting
+ **[Databases]**
 
-## Image
+ **[Hosting]**
 
-## Music
+ **[Image]**
 
-## Domain
+ **[Music]**
 
-## Security
+ **[Domain]**
 
-## Writing
+ **[SASS]**
+
+ **[Security]**
+
+ **[Self-hosted]**
+
+ **[Writing]**
