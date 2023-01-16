@@ -7,7 +7,7 @@ i'm gonna post some hobby dev stuff here.
 
 ## Categories
 
- **[API](stuff/API)**
+ **[API](stuff/API.md)**
 
  **[Bots](stuff/Bots.md)**
 
