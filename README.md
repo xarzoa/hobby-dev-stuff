@@ -2,6 +2,8 @@
 
 i'm gonna post some hobby dev stuff here.
 
+Completing after 7/2
+
 *share something u made or use available for free, become **"collaborator"**.*
 * if you're new for github, just make a pull request to get achievements [here's guide](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
